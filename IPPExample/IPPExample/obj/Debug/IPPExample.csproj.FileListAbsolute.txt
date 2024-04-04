@@ -1,0 +1,16 @@
+C:\Users\racco\source\repos\IPPExample\IPPExample\bin\Debug\IPPExample.exe.config
+C:\Users\racco\source\repos\IPPExample\IPPExample\bin\Debug\IPPExample.exe
+C:\Users\racco\source\repos\IPPExample\IPPExample\bin\Debug\IPPExample.pdb
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.csproj.AssemblyReference.cache
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.Form1.resources
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.Properties.Resources.resources
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.csproj.GenerateResource.cache
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.csproj.CoreCompileInputs.cache
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.exe
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.pdb
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.Config.resources
+C:\Users\racco\source\repos\IPPExample\IPPExample\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\racco\source\repos\IPPExample\IPPExample\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\racco\source\repos\IPPExample\IPPExample\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\racco\source\repos\IPPExample\IPPExample\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\racco\source\repos\IPPExample\IPPExample\obj\Debug\IPPExample.csproj.Up2Date
