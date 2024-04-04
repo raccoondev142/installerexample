@@ -122,16 +122,16 @@
     <value>..\Resources\installtop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ProductName" xml:space="preserve">
-    <value>MisterMommy</value>
+    <value>Example</value>
   </data>
   <data name="programtest" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\programtest.zip;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Copyright" xml:space="preserve">
-    <value>© 2024 Gamma Solutions. All Rights Reserved.</value>
+    <value>© 2024 Example Company.</value>
   </data>
   <data name="DefaultInstallPath" xml:space="preserve">
-    <value>C:/Program Files/URMOM</value>
+    <value>C:/Program Files/Example</value>
   </data>
   <data name="DesktopShortcut" xml:space="preserve">
     <value>true</value>
@@ -140,6 +140,6 @@
     <value>TestFile.txt</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>The best text file ever.</value>
+    <value>Example Test</value>
   </data>
 </root>
